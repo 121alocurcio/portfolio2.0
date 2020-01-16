@@ -1,0 +1,40 @@
+.navbar {
+margin-left: 0px;
+    margin-bottom: 0;
+    margin-right: 0px;
+}
+button {
+    background-color:black;
+    color:white;
+    padding: 15px 32px;
+    text-decoration:none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius:7px;
+}
+.button:hover {
+    background-color: white;
+    color: black;
+    transition-duration: .4s;
+}
+.title {
+    text-align: center;
+}
+.travis {
+  height: 183px;
+  width:276px;
+}
+.shoreline {
+  height: 183px;
+  width:276px;
+}
+.my-4 {
+    color: red;
+}
+.jumbotron {
+background-size:cover;
+color:
+}
+iframe:focus {
+  outline: none;
+}
